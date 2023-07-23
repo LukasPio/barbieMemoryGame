@@ -1,0 +1,81 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #FFB6C1;
+    align-items: center;
+}
+
+.main-container {
+    margin-top: 200px;
+}
+
+input[type="text"] {
+    font-family: "Chewy";
+  }
+  
+button {
+    font-family: "Chewy";
+}
+  
+.gameTittle {
+    font-family: "Chewy";
+    font-weight: 500;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.gameOptions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#userName {
+    width: 180px;
+    height: 27px;
+    font-size: 20px;
+    margin-top: 20px;
+    padding-left: 8px;
+    border-radius: 8px;
+    background-color: transparent;
+    border: solid black;
+    color: rgb(99, 99, 99);
+}
+
+.playButton {
+    margin-top: 15px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 8px;
+    background-color: #1c7ddd;
+    height: 35px;
+    cursor: pointer;
+}
+
+#userName::placeholder {
+    color: rgb(99, 99, 99);
+}
+
+:disabled {
+    color: unset;
+    cursor: auto;
+}
+
+.playButton:disabled {
+   background-color: #FFD3E6;
+   color: #aeaeae;
+}
+
+.footerPage {
+ margin-top: 220px;
+
+    font-family: "Luckiest Guy";
+
+}
+
+.codeHelpText {
+    color: #0a3f75;
+}
