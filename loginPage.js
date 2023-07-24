@@ -13,5 +13,5 @@ button.addEventListener('click', (e) => {
     e.preventDefault()
 
     localStorage.setItem('UserName', input.value)
-    window.location = '../gamePage/gamePage.html'
+    window.location = '/gamePage.html'
 })

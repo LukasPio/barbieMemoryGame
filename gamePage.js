@@ -85,7 +85,7 @@ function createCard(cardNumber) {
   const front = createElement("div", "front face");
   const back = createElement("div", "back face");
 
-  front.style.backgroundImage = `url('../images/${cardNumber}.jpg')`;
+  front.style.backgroundImage = `url('/images/${cardNumber}.jpg')`;
 
   card.appendChild(front);
   card.appendChild(back);
