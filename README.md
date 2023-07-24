@@ -3,9 +3,10 @@ Surfing on the wave of success that was the Barbie movie, I created a simple mem
 
 <---------------------------------Login Page--------------------------------->
 
-![image](https://github.com/LukasPio/barbieMemoryGame/assets/136334267/880995b7-0937-403b-a934-bfab8f8edb11)
+![image](https://github.com/LukasPio/barbieMemoryGame/assets/136334267/e71e0dfa-2d6d-4eaa-a9c0-708a9dc55b98)
 
 <---------------------------------Game Page--------------------------------->
 
-![image](https://github.com/LukasPio/barbieMemoryGame/assets/136334267/9236a580-49ca-4c58-a1aa-0ef305dfcadd)
+![image](https://github.com/LukasPio/barbieMemoryGame/assets/136334267/0c0fd41f-80ea-4824-b15e-325b8de01c20)
+
 
