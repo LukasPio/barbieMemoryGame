@@ -1,4 +1,4 @@
-deploy apllication: barbie-memory-game.netlify.app
+deploy apllication link: barbie-memory-game.netlify.app
 
 # barbieMemoryGame
 Surfing on the wave of success that was the Barbie movie, I created a simple memory game with the Barbie theme, using only HTML, CSS, and JS.
